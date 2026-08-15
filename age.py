@@ -18,7 +18,7 @@ while True:
             print("The person is a adult.")            
          case _:
             print("The person is an elder.")            
- except:
+ except ValueError:
        print("Invalid Input!")
 
  while True:

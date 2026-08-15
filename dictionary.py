@@ -1,3 +1,5 @@
+# This program returns the meanings of the words.
+
 wrd_mning = {
     "Assist" : "To help someone.",
     "Commence" : "To start or begin something.",

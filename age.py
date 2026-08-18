@@ -15,7 +15,7 @@ while True:
          case _ if age < 20:
             print("The person is a teenager.")
          case _ if age < 65:
-            print("The person is a adult.")            
+            print("The person is an adult.")            
          case _:
             print("The person is an elder.")            
  except ValueError:
